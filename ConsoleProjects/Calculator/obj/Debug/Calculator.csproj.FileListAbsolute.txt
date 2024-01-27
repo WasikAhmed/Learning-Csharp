@@ -1,6 +1,0 @@
-/Users/wasik/GitHub/Learning-Csharp/ConsoleProjects/Calculator/bin/Debug/Calculator.exe
-/Users/wasik/GitHub/Learning-Csharp/ConsoleProjects/Calculator/bin/Debug/Calculator.pdb
-/Users/wasik/GitHub/Learning-Csharp/ConsoleProjects/Calculator/obj/Debug/Calculator.csproj.AssemblyReference.cache
-/Users/wasik/GitHub/Learning-Csharp/ConsoleProjects/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache
-/Users/wasik/GitHub/Learning-Csharp/ConsoleProjects/Calculator/obj/Debug/Calculator.exe
-/Users/wasik/GitHub/Learning-Csharp/ConsoleProjects/Calculator/obj/Debug/Calculator.pdb
