@@ -19,3 +19,6 @@ obj/
 *.user
 *.userosscache
 *.sln.docstates
+
+# macOS system files
+.DS_Store
