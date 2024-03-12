@@ -75,7 +75,7 @@ namespace Calculator
 
         private void WelcomeMessage()
         {
-            
+            Console.WriteLine("Welcome to Console Calculator :)");
         }
         private bool GetOperation()
         {                
@@ -90,6 +90,11 @@ namespace Calculator
             {
                 Console.WriteLine(e);
                 throw;
+            }
+            if (Operation <= 0 || Operation >= 5)
+            {
+                Console.WriteLine("Choose a valid option. Try again!");
+                GetOperation();
             }
 
             return true;
